@@ -1,0 +1,29 @@
+@media (min-width: 576px) and (max-width: 778.98px) { 
+    .main-box{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        justify-content: center;
+        align-items: center;
+    }
+    .first-box{
+        width: 421px;
+        height: 200px;
+    }
+    .numbox{
+        width: 270px;
+        height: 50px;
+    }
+    .click{
+        width: 120px;
+        height: 50px;
+        font-size: 24px;
+        text-align: center;
+    }
+    .numbox::placeholder{
+        font-size: 26px;
+    }
+    .time-box{
+        width: 410px;
+    }
+} 
