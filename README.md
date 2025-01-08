@@ -10,7 +10,7 @@ A simple and interactive multiplication game built with HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can try out the live demo of the application at https://sahid-al-masud-aayan.github.io/Multiplier/
+You can try out the live demo of the application at https://sahid-al-masud-aayan.github.io/Times-Table-Game/
 
 ## Getting Started
 
